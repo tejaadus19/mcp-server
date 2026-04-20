@@ -1,4 +1,3 @@
-
 # MCP Server  AI-Powered Chat Application
 
 A Model Context Protocol (MCP) Server built with Java Spring Boot that connects an LLM (Groq/Llama3) to multiple data sources including CSV files, REST APIs, Kafka streams, and Google Drive.
@@ -125,4 +124,3 @@ GROQ_API_KEY=your_groq_api_key
 
 Surya — Senior Software Developer 
 GitHub: github.com/tejaadus19
-
